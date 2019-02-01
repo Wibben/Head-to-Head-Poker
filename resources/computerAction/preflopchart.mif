@@ -1,0 +1,160 @@
+-- Copyright (C) 2018  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=3;
+DEPTH=728;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	000  :   011;
+	001  :   110;
+	002  :   011;
+	[003..004]  :   110;
+	005  :   011;
+	[006..007]  :   110;
+	[008..009]  :   011;
+	[00A..00B]  :   110;
+	[00C..00E]  :   011;
+	00F  :   101;
+	[010..011]  :   110;
+	[012..014]  :   011;
+	[015..017]  :   110;
+	[018..01B]  :   011;
+	[01C..01E]  :   110;
+	[01F..023]  :   011;
+	[024..025]  :   110;
+	[026..02C]  :   011;
+	02D  :   110;
+	[02E..0B5]  :   011;
+	[0B6..0B7]  :   000;
+	0B8  :   011;
+	[0B9..0BA]  :   000;
+	0BB  :   011;
+	[0BC..0BD]  :   000;
+	[0BE..0BF]  :   011;
+	[0C0..0C2]  :   000;
+	[0C3..0C4]  :   011;
+	[0C5..0C8]  :   000;
+	[0C9..0CA]  :   011;
+	[0CB..0CF]  :   000;
+	[0D0..0D1]  :   011;
+	[0D2..0D6]  :   000;
+	[0D7..0D9]  :   011;
+	[0DA..0DF]  :   000;
+	[0E0..0E2]  :   011;
+	[0E3..0E8]  :   000;
+	[0E9..0EC]  :   011;
+	[0ED..0F2]  :   000;
+	[0F3..0F7]  :   011;
+	[0F8..0FA]  :   000;
+	[0FB..103]  :   011;
+	[104..105]  :   000;
+	[106..110]  :   011;
+	[111..112]  :   000;
+	113  :   011;
+	114  :   000;
+	[115..116]  :   011;
+	117  :   000;
+	[118..11A]  :   011;
+	11B  :   000;
+	[11C..11F]  :   011;
+	[120..121]  :   000;
+	[122..125]  :   011;
+	[126..127]  :   000;
+	[128..12C]  :   011;
+	[12D..12F]  :   000;
+	[130..134]  :   011;
+	135  :   000;
+	[136..13D]  :   011;
+	13E  :   000;
+	[13F..16C]  :   011;
+	16D  :   110;
+	16E  :   011;
+	16F  :   110;
+	170  :   001;
+	171  :   011;
+	172  :   110;
+	[173..174]  :   001;
+	175  :   011;
+	176  :   110;
+	[177..179]  :   001;
+	17A  :   011;
+	[17B..17C]  :   110;
+	[17D..17F]  :   001;
+	180  :   011;
+	[181..182]  :   110;
+	[183..186]  :   001;
+	187  :   011;
+	188  :   110;
+	[189..18E]  :   001;
+	18F  :   011;
+	[190..197]  :   001;
+	198  :   011;
+	[199..1A1]  :   001;
+	1A2  :   011;
+	[1A3..1AC]  :   001;
+	1AD  :   011;
+	[1AE..1B6]  :   001;
+	[1B7..1B9]  :   011;
+	[1BA..1C0]  :   001;
+	[1C1..1C7]  :   011;
+	1C8  :   001;
+	1C9  :   011;
+	1CA  :   001;
+	[1CB..1CC]  :   011;
+	1CD  :   001;
+	[1CE..1D0]  :   011;
+	[1D1..1D2]  :   001;
+	[1D3..1D5]  :   011;
+	[1D6..1D8]  :   001;
+	[1D9..1DB]  :   011;
+	[1DC..1DE]  :   001;
+	[1DF..1E2]  :   011;
+	[1E3..1E5]  :   001;
+	[1E6..1EA]  :   011;
+	[1EB..1EE]  :   001;
+	[1EF..1F3]  :   011;
+	[1F4..1F6]  :   001;
+	1F7  :   011;
+	1F8  :   001;
+	[1F9..1FD]  :   011;
+	[1FE..1FF]  :   001;
+	[200..208]  :   011;
+	[209..20A]  :   001;
+	[20B..214]  :   011;
+	[215..216]  :   001;
+	[217..222]  :   011;
+	223  :   110;
+	224  :   011;
+	[225..226]  :   110;
+	227  :   011;
+	[228..229]  :   110;
+	[22A..22B]  :   011;
+	[22C..22D]  :   110;
+	[22E..230]  :   011;
+	[231..233]  :   110;
+	[234..236]  :   011;
+	[237..239]  :   110;
+	[23A..23D]  :   011;
+	[23E..240]  :   110;
+	[241..245]  :   011;
+	[246..247]  :   110;
+	[248..24E]  :   011;
+	24F  :   110;
+	[250..2D7]  :   011;
+END;
